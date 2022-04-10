@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./css/style.css -o ./dist/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basheir/Portfolio_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basheir/Portfolio_1/issues"
+  },
+  "homepage": "https://github.com/basheir/Portfolio_1#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
